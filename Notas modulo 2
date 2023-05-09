@@ -1,3 +1,4 @@
+
 Entorno de desarrollo local
 Como escribimos anteriormente, los requisitos de JavaScript para el entorno de desarrollo son muy modestos. En la mayoría de los casos, especialmente al comienzo del desarrollo, solo tres elementos son suficientes: un editor de código, un intérprete (es decir, un entorno de arranque) y un depurador.
 
