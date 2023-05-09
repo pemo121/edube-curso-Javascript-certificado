@@ -1,5 +1,10 @@
+<HTML>
+  <HEAD>
+  </HEAD>
+  <BODY>
+ 
 
-Entorno de desarrollo local
+<H1> Entorno de desarrollo local </H1>
 Como escribimos anteriormente, los requisitos de JavaScript para el entorno de desarrollo son muy modestos. En la mayoría de los casos, especialmente al comienzo del desarrollo, solo tres elementos son suficientes: un editor de código, un intérprete (es decir, un entorno de arranque) y un depurador.
 
 Dependiendo del nivel de sofisticación, la complejidad del proyecto escrito o el entorno para el que escribimos nuestros programas (del lado del cliente, o del lado del servidor), es posible que también se necesiten otras herramientas.
@@ -22,5 +27,5 @@ Sin embargo, su cantidad, más los cambios dinámicos de herramientas particular
 Pero para nosotros, este es un problema para el futuro lejano.
 
 Por ahora, necesitamos el trío mínimo: un editor de código, intérprete y depurador
-
-
+ </BODY>
+</HTML>
